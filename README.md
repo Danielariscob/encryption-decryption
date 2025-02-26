@@ -1,4 +1,4 @@
-# Encryption and Decryption in Python Project
+# Encryption and Decryption
 
 #### 📌 Project Overview
 
